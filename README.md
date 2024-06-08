@@ -1,10 +1,7 @@
 ### Hi there 👋 my name is Valentin
 I am a Master student in Computer Vision and Image Processing at the Czech Technical University in Prague
 
-- 🔭 I’m currently working on a personal project to implemente lens distortion simulation in OpenGL (https://github.com/Vlhermitte/LensDistortionOpenGL) <br />
-The final goal is to create a sandbox where you can create your own environement, and generate a dataset of images if you wish to test your camera calibration algorithm accuracy.
-
-- 🌱 I’m currently learning about Camera Calibration, 3D reconstruction, and Local Feature Matching
+- 🌱 I’m currently learning about Camera Calibration, 3D reconstruction, Local Feature Matching and Self-Supervised Learning
 
 - 📫 How to reach me: https://www.linkedin.com/in/valentin-lhermitte/
 
