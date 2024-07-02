@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Vlhermitte)
 ### Hi there 👋 my name is Valentin
 I am a Master student in Computer Vision and Image Processing at the Czech Technical University in Prague
 
