@@ -8,7 +8,8 @@ I am a Master student in Computer Vision and Image Processing at the Czech Techn
 
 ### Education :
 - Master in Computer Vision and Image Processing at the Czech Technical University in Prague (2023-Today)
-- Erasmus exchange in AI at Satakunta University of Applied Sciences (SAMK) in Finland (2022)
+- Exchange program at National Tsing Hua university (NTHU) in Taiwan (Winter 2025)
+- Erasmus exchange in AI at Satakunta University of Applied Sciences (SAMK) in Finland (Winter 2022)
 - Bachelor in Computer Science at Haute Ecole Namur-Liege-Luxembourg (HENALLUX) in Belgium (2020-2023)
 
 <!--
