@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Valentin
-I am a Master student in Computer Vision and Image Processing at the Czech Technical University in Prague
+I hold a master's degree in Computer Vision and Image Processing from the Czech Technical University in Prague.
 
 - 🌱 I’m currently learning about Camera Calibration, 3D reconstruction, Local Feature Matching and Self-Supervised Learning
 
@@ -7,7 +7,7 @@ I am a Master student in Computer Vision and Image Processing at the Czech Techn
 
 
 ### Education :
-- Master in Computer Vision and Image Processing at the Czech Technical University in Prague (2023-Today)
+- Master in Computer Vision and Image Processing at the Czech Technical University in Prague (2023-2026)
 - Exchange program at National Tsing Hua University (NTHU) in Taiwan (Winter 2025)
 - Erasmus exchange in AI at Satakunta University of Applied Sciences (SAMK) in Finland (Winter 2022)
 - Bachelor in Computer Science at Haute Ecole Namur-Liege-Luxembourg (HENALLUX) in Belgium (2020-2023)
